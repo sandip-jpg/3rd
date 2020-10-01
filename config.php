@@ -8,4 +8,6 @@ $conn = new mysqli($serverName, $username, $password, $dbName); //returns sql ob
 
 if($conn->connect_error) {
 	die('Failed:' . $conn->connect_error);
-}
+}///git sasda 
+
+asdasd
